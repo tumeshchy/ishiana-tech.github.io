@@ -1,2 +1,2 @@
-# ishiana-tech.github.io
+# tumeshchy.github.io
 My business systems portfolio with live demos.
